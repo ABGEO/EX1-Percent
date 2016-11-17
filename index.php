@@ -1,4 +1,4 @@
-<!DOCTYPE hhtml>
+<!DOCTYPE html>
 <html>
     <head>
         <title>Test</title>
