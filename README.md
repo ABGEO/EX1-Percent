@@ -1,2 +1,2 @@
 # EX1-Percent
-EX1: Percent { <DIRECTED ByABGEO /> }
+EX1: Percent { &lt;DIRECTED ByABGEO /&gt; }
