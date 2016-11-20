@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Test</title>
+        <title>პროცენტები</title>
         <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
     </head>
     <body>
